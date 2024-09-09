@@ -10,4 +10,4 @@ This is my custom boilerplate for starting new web projects.
 git clone https://github.com/PepijnBullens/boilerplate.git
 ```
 
-## Or download the zip
+### Or download the zip
